@@ -1,6 +1,6 @@
 # Oracle-Financials
 
-## Project Backgroun
+## Project Background
 Oracle Corporation, a global leader in enterprise software and cloud solutions, continues to evolve its business strategy to adapt to rapid digital transformation and competitive market forces.This project focuses on transforming complex financial data into a visually intuitive dashboard that supports executive decision-making. It provides a holistic understanding of Oracle’s financial health, growth patterns, and market reach across key operating segments and global regions.
 
 ## Executive Summary 
