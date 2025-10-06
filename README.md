@@ -9,10 +9,27 @@ Oracle Corporation, a global leader in enterprise software and cloud solutions, 
 The analysis reveals Oracle’s consistent growth trajectory in its cloud and subscription-based business, highlighting its strong shift toward sustainable and scalable revenue streams.
 
 ### Key Findings 
-1)Steady Growth in Cloud Revenue: Oracle’s cloud services and license support segments show continued expansion, reflecting the company’s focus on cloud innovation and enterprise solutions.
-   
-2)Regional Strength: North America and EMEA remain dominant revenue contributors, while APAC demonstrates emerging growth potential.
+Cloud services and license support continue to dominate overall revenue, reflecting Oracle’s strong position in enterprise software markets.
 
-3)Improved Profitability Metrics: Positive trends in net income and EPS indicate operational efficiency and strong investor confidence.
+North America and EMEA remain key contributors, while APAC regions exhibit steady growth potential.
 
-4)Balanced Business Mix: Diversification across products and geographies reduces risk exposure and enhances long-term stability.
+Consistent YoY improvement in operating income and EPS supports long-term profitability.
+
+A balanced revenue mix across regions and segments reduces dependency on single markets.
+
+### Key Objectives 
+To visualize Oracle’s financial performance across business segments and global regions.
+
+To analyze revenue growth trends and evaluate year-over-year (YoY) performance.
+
+To provide investor-level insights into profitability, revenue distribution, and market share.
+
+To identify emerging regional opportunities and areas contributing most to total revenue.
+
+### Tools & Technologies Used
+
+ETL Process: Data was cleaned, transformed, and loaded using Python and SQL.
+
+Visualization Tool: Power BI was used to create interactive dashboards.
+
+
